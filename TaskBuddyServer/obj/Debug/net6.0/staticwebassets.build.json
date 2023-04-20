@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AmmYIkjaXTYARKry93hApLdZv/aUA4CgISjnjNR3i1w=",
+  "Source": "TaskBuddyServer",
+  "BasePath": "_content/TaskBuddyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
